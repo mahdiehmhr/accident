@@ -18,4 +18,4 @@ Download it <a href="https://github.com/mahdiehmhr/accident/releases/download/v0
 
 ***
 
-Made By Mahdieh Mahery & Hedieh Alaeeny
+Made By Mahdieh Mahery & Hedieh Alaeini.

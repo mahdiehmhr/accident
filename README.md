@@ -14,7 +14,7 @@ Also try D to hide/show the doors.
 
 See the complete code documentation at <a href="https://github.com/mahdiehmhr/accident/wiki">Wiki</a> page of this repository.
 
-Download it <a href="https://github.com/mahdiehmhr/accident/releases/download/v0.0.1-alpha/Project.sb3">here</a>
+Download it <a href="https://github.com/mahdiehmhr/accident/releases/download/v0.0.1-alpha/Project.sb3">here</a>.
 
 ***
 
